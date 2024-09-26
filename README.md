@@ -5,8 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagingWK&layout=donut&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](./github-user-contribution.svg)
-<div class="icons-container">
+
 ### Skills
+
+<div class="icons-container">
+
  <img height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
  <img height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  <img height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
