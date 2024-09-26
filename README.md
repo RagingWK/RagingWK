@@ -1,6 +1,8 @@
-## RagingWK
+## Hi I'm Lucas Floriano
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagingWK&locale=pt-br&border_radius=20px&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagingWK&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](./github-user-contribution.svg)
 
