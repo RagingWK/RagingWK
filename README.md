@@ -1,6 +1,6 @@
 ## RagingWK
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagingWK&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&locale=pt-br&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagingWK&locale=pt-br&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](./github-user-contribution.svg)
 
