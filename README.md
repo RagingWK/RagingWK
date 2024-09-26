@@ -1,4 +1,4 @@
-## Hi I'm Lucas Floriano
+# Hi I'm Lucas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagingWK&locale=pt-br&border_radius=20px&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,7 +13,7 @@
  <img height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  <img height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
  </div>
- 
+
 ![snake gif](./github-user-contribution.svg)
 
 
